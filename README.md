@@ -1,52 +1,132 @@
-Hi, I'm Slimane Rabhi
-Systems & Network Engineer · Mobile Developer · AI/ML Practitioner
-BAC+5 Engineer in Computer Networks & AI. I build things end-to-end — from enterprise network infrastructure and Zero-Trust security labs to Flutter mobile apps and ML-powered anomaly detection systems. Based in Algeria, open to remote and on-site opportunities.
+<div align="center">
 
-What I work on
-Infrastructure & Security
+# 👋 Hi, I'm Slimane Rabhi
 
-Zero-Trust network architectures (pfSense, VLANs, WireGuard VPN, Keycloak SSO)
-Infrastructure as Code: Terraform + Ansible on Proxmox VE / VMware ESXi
-SIEM pipelines: ELK Stack, Security Onion, Wazuh, Grafana
-FortiGate firewall policies, network traffic analysis (Wireshark, Suricata)
+### 🌐 Systems & Network Engineer · 📱 Mobile Developer · 🤖 AI/ML Practitioner
 
-AI & Machine Learning
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/slimanerabhi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohammed-rabhi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:slimanerabhi7@gmail.com)
 
-Anomaly detection: Isolation Forest + Autoencoder models (PyTorch, Scikit-learn)
-Data pipelines: Pandas, NumPy, NetFlow/IPFIX analysis
-AIOps: automated threat response via API integration
+</div>
 
-Mobile Development
+---
 
-Cross-platform apps with Flutter / Dart (iOS & Android)
-Full project lifecycle: requirements → UI design → API integration → store publication
-18 months freelance delivery on the Algerian market (2024–2025)
+🎓 **BAC+5 Engineer** in Computer Networks & Artificial Intelligence  
+📍 Based in **Tizi Ouzou, Algeria** — open to remote & on-site opportunities  
+🔭 Currently preparing for **CCNP Enterprise** (target Q4 2026)  
+💼 18 months freelance **mobile development** on the Algerian market (2024–2025)
 
+---
 
-Featured projects
-SEAAL File Manager
-Industrial-grade cross-platform file manager built for SEAAL (Algerian public utility).
+## 🛠️ What I Build
 
-Mobile app in Flutter/Dart
-Backend in C++ (CMake)
-Web admin console in TypeScript
-Full monorepo: Mobile_App / api / seaal-web-console
+### 🔒 Infrastructure & Network Security
+- Zero-Trust network architectures — pfSense, VLANs, WireGuard VPN, Keycloak SSO
+- Infrastructure as Code — Terraform + Ansible on Proxmox VE / VMware ESXi
+- SIEM & observability pipelines — ELK Stack, Security Onion, Wazuh, Grafana
+- Firewall engineering — FortiGate ACLs, NAT, Suricata IDS, Wireshark analysis
 
-Zero-Trust Automated Enterprise Lab (private — available on request)
-Full IaC enterprise network simulation from scratch: Terraform + Ansible, pfSense, VLAN segmentation, WireGuard VPN, Keycloak SSO, ELK SIEM, Security Onion, Grafana, Wazuh, NetBox.
-AI-Powered Network Anomaly Detection (private — available on request)
-ML pipeline for zero-day network attack detection. Isolation Forest + Autoencoder (PyTorch) on NetFlow/IPFIX data. 95% detection confidence. Automated pfSense API blocking. Kibana dashboard + Gradio demo UI.
+### 🤖 AI & Machine Learning
+- Network anomaly detection — Isolation Forest + Autoencoder (PyTorch, Scikit-learn)
+- Data pipelines — Pandas, NumPy, NetFlow/IPFIX traffic analysis
+- AIOps — real-time inference + automated threat response via API integration
 
-Tech stack
-DomainToolsNetworkingTCP/IP, VLANs, VPN (WireGuard, IPsec), FortiGate, GNS3, Cisco Packet TracerSecuritypfSense, OPNsense, Zero-Trust, Suricata, ELK SIEM, Wazuh, KeycloakIaC & InfraTerraform, Ansible, Proxmox VE, VMware ESXi, Docker, BashOSUbuntu/Debian Server, Windows Server (AD, GPO, DNS, DHCP)MobileFlutter, Dart, REST API integrationAI/MLPyTorch, Scikit-learn, Pandas, NumPy, KibanaLanguagesPython, C++, TypeScript, Java, Bash
+### 📱 Mobile Development
+- Cross-platform apps — Flutter / Dart (iOS & Android)
+- Full project lifecycle — requirements → UI design → API integration → store delivery
+- Real client projects delivered on the Algerian market
 
-Certifications
+---
 
-CCNP Enterprise — in progress, target Q4 2026
-AWS Fundamentals
+## 🚀 Featured Projects
 
+### 📁 [SEAAL File Manager](https://github.com/mohammed-rabhi/SEAAL_File_Manager_Project)
+> Industrial-grade cross-platform file manager built for a major Algerian public utility
 
-Contact
+| Layer | Stack |
+|-------|-------|
+| 📱 Mobile | Flutter / Dart |
+| ⚙️ Backend | C++ (CMake) |
+| 🌐 Web console | TypeScript |
 
-Email: slimanerabhi7@gmail.com
-LinkedIn: linkedin.com/in/slimanerabhi
+### 🛡️ Zero-Trust Automated Enterprise Lab *(private — available on request)*
+> Full enterprise network simulation built from scratch with IaC
+
+`Terraform` `Ansible` `pfSense` `WireGuard` `Keycloak SSO` `ELK SIEM` `Wazuh` `Grafana` `NetBox`
+
+### 🔍 AI-Powered Network Anomaly Detection *(private — available on request)*
+> ML pipeline detecting zero-day network attacks missed by traditional firewalls
+
+`PyTorch` `Scikit-learn` `Suricata` `NetFlow/IPFIX` `Kibana` `pfSense API` `Gradio`  
+✅ **95% detection confidence** on test PCAP datasets
+
+---
+
+## 🧰 Tech Stack
+
+<table>
+<tr>
+<td valign="top">
+
+**🌐 Networking**
+- TCP/IP, VLANs, Routing & Switching
+- VPN (WireGuard, IPsec, site-to-site)
+- FortiGate, GNS3, Cisco Packet Tracer
+- Wireshark, Suricata
+
+</td>
+<td valign="top">
+
+**🔒 Security**
+- pfSense / OPNsense
+- Zero-Trust architecture
+- ELK SIEM, Security Onion, Wazuh
+- Keycloak / Authentik SSO
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**⚙️ IaC & Infrastructure**
+- Terraform, Ansible
+- Proxmox VE, VMware ESXi
+- Docker, Bash scripting
+- Windows Server (AD, GPO, DNS, DHCP)
+
+</td>
+<td valign="top">
+
+**🤖 AI / Mobile / Dev**
+- PyTorch, Scikit-learn, Pandas, NumPy
+- Flutter / Dart
+- Python, C++, TypeScript, Java
+- Git / GitHub
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏅 Certifications
+
+- 📡 **CCNP Enterprise** — in progress · target Q4 2026
+- ☁️ **AWS Fundamentals**
+
+---
+
+## 💬 Languages
+
+🇩🇿 Arabic (native) · 🇫🇷 French (fluent — TCF B2) · 🇬🇧 English (fluent) · 🇪🇸 Spanish (intermediate)
+
+---
+
+<div align="center">
+
+📫 **slimanerabhi7@gmail.com** · [linkedin.com/in/slimanerabhi](https://linkedin.com/in/slimanerabhi)
+
+*Building real systems. Solving real problems.*
+
+</div>
