@@ -13,7 +13,7 @@
 ---
 
 🎓 **BAC+5 Engineer** in Computer Networks & Artificial Intelligence  
-📍 Based in **Tizi Ouzou, Algeria** — open to remote & on-site opportunities  
+📍 Based in **Krakow, Poland** — open to remote & on-site opportunities  
 🔭 Currently preparing for **CCNP Enterprise** (target Q4 2026)  
 💼 18 months freelance **mobile development** on the Algerian market (2024–2025)
 
